@@ -1,9 +1,8 @@
 # Food, Emotion and Sharing on Social Media
 
-Principal Investigator: HKUST HCI Initiative, Department of Computer Science and Engineering
-Faculty Advisor:  Professor Xiaojuan MA
+__Principal Investigator__: HKUST HCI Initiative, Department of Computer Science and Engineering
 
-Other Investigator(s): EPFL Human-Computer Interaction Group
+__Other Investigator__: EPFL Human-Computer Interaction Group
 _______________________________________________________________________________
 
 Purpose of this Study
