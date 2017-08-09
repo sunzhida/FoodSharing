@@ -47,7 +47,7 @@ __Rights__
 
 Your participation is voluntary.  You are free to stop your participation at any point.  Refusal to participate or withdrawal of your consent or discontinued participation in the study will not result in any penalty or loss of benefits or rights to which you might otherwise be entitled.  The Principal Investigator may at his/her discretion remove you from the study for any of a number of reasons.  In such an event, you will not suffer any penalty or loss of benefits or rights which you might otherwise be entitled.
 
-###__Right to Ask Questions & Contact Information__###
+__Right to Ask Questions & Contact Information__
 
 If you have any questions about this study, you should feel free to ask them now.  If you have questions later, desire additional information, or wish to withdraw your participation please contact the Principal Investigator by mail, phone or email in accordance with the contact information listed on the first page of this consent.  
 
